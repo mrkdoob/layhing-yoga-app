@@ -3,15 +3,8 @@
 type Messages = typeof import('../locales/en.json');
 declare interface IntlMessages extends Messages {}
 
-<<<<<<< HEAD
 // types.ts
 
-=======
-
-// types.ts
-
-
->>>>>>> 0951c37 (Initial commit)
 // Corsizio events types
 export interface CorsizioResponse {
   list: Event[];
@@ -41,8 +34,4 @@ export interface Event {
   summaryHtml: string;
   created: string;
   account: string;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0951c37 (Initial commit)
