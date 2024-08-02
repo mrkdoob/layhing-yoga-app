@@ -45,7 +45,7 @@ export async function generateMetadata({
 }) {
   const t = await getTranslations({
     locale,
-    namespace: 'Guestbook',
+    namespace: 'Events',
   });
   return {
     title: t('meta_title'),
@@ -60,7 +60,7 @@ export default async function Events({
 }) {
   const t = await getTranslations({
     locale,
-    namespace: 'Guestbook',
+    namespace: 'Events',
   });
 
   let events: Event[] = [];
@@ -72,7 +72,7 @@ export default async function Events({
   }
 
   return (
-    <Suspense fallback={<p>{t('loading_guestbook')}</p>}>
+    <Suspense fallback={<p>{t('loading_events')}</p>}>
       <EventsList events={events} />
     </Suspense>
   );

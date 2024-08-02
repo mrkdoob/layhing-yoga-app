@@ -38,6 +38,7 @@
     "meta_title": "Events",
     "meta_description": "Events page description",
     "about_paragraph": "Welcome to our Events page! Join my yoga events.",
+    "loading_events": "Loading events...",
     "translation_powered_by": "Translation powered by"
   },
   "Portfolio": {
