@@ -1,0 +1,78 @@
+{
+  "RootLayout": {
+    "home_link": "Inicio",
+    "about_link": "Acerca de",
+    "events_link": "Eventos",
+    "guestbook_link": "Libro visitas",
+    "portfolio_link": "Portafolio",
+    "sign_in_link": "Signo en",
+    "sign_up_link": "Registro"
+  },
+  "BaseTemplate": {
+    "description": "Código de inicio para tu Boilerplate de Next. js con Tailwind CSS",
+    "made_with": "Hecho con"
+  },
+  "Index": {
+    "meta_title": "Presentación del Boilerplate de Next.js",
+    "meta_description": "Next.js Boilerplate es el código inicial perfecto para tu proyecto. Construye tu aplicación React con el framework Next.js."
+  },
+  "Guestbook": {
+    "meta_title": "Libro visitas",
+    "meta_description": "Un ejemplo de operación CRUD",
+    "database_powered_by": "Base de datos proporcionada por",
+    "loading_guestbook": "Cargando libro de visitas...",
+    "error_reporting_powered_by": "Informe de errores proporcionado por"
+  },
+  "GuestbookForm": {
+    "username": "Usuario",
+    "body": "Cuerpo",
+    "save": "Salva"
+  },
+  "About": {
+    "meta_title": "Acerca de",
+    "meta_description": "Descripción de la página Acerca de",
+    "about_paragraph": "¡Bienvenido a nuestra página Acerca de! Somos un equipo de personas apasionadas dedicadas a crear software increíble.",
+    "translation_powered_by": "Traducción proporcionada por"
+  },
+  "Events": {
+    "meta_title": "Eventos",
+    "meta_description": "Descripción del evento Pie",
+    "about_paragraph": "¡Bienvenido a nuestra página de eventos! Únete a mis eventos de yoga.",
+    "translation_powered_by": "Traducción proporcionada por"
+  },
+  "Portfolio": {
+    "meta_title": "Portafolio",
+    "meta_description": "¡Bienvenido a mi página de portafolio!",
+    "presentation": "¡Bienvenido a mi página de portafolio! Aquí encontrarás una colección cuidadosamente seleccionada de mi trabajo y logros. A través de este portafolio, busco mostrar mi experiencia, creatividad y el valor que puedo aportar a tus proyectos.",
+    "portfolio_name": "Portafolio {name}",
+    "error_reporting_powered_by": "Informe de errores proporcionado por",
+    "coverage_powered_by": "Cobertura de código proporcionada por"
+  },
+  "PortfolioSlug": {
+    "meta_title": "Portafolio {slug}",
+    "meta_description": "Descripción del portafolio {slug}",
+    "header": "Portafolio {slug}",
+    "content": "Creé un conjunto de materiales promocionales y elementos de marca para un evento corporativo. Diseñé un tema visualmente unificado que incluía un logotipo, carteles, pancartas y activos digitales. Integré la identidad de marca del cliente mientras le daba un enfoque contemporáneo e innovador. Obtuve respuestas favorables de los asistentes al evento, lo que resultó en un evento exitoso con una mayor participación de los participantes y una mayor visibilidad de la marca.",
+    "log_management_powered_by": "Gestión de registros proporcionada por"
+  },
+  "SignIn": {
+    "meta_title": "Signo en",
+    "meta_description": "Inicia sesión en tu cuenta de manera fluida con nuestro proceso de inicio de sesión fácil de usar."
+  },
+  "SignUp": {
+    "meta_title": "Registro",
+    "meta_description": "Crea una cuenta a través de nuestro proceso intuitivo de registro."
+  },
+  "Dashboard": {
+    "meta_title": "Tablero",
+    "hello_message": "¡Hola {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "Perfil de usuario"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Tablero",
+    "user_profile_link": "Administra tu cuenta",
+    "sign_out": "Cerrar sesión"
+  }
+}
