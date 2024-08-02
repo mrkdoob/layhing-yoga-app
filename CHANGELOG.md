@@ -1,3 +1,10 @@
+# 1.0.0 (2024-08-02)
+
+
+### Bug Fixes
+
+* **github workflows config:** add keys ([5d0bc4b](https://github.com/mrkdoob/layhing-yoga-app/commit/5d0bc4bedb8fd936baa62a1aba2e900352b9cddc))
+
 # [3.53.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.52.0...v3.53.0) (2024-06-26)
 
 
