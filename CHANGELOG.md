@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/mrkdoob/layhing-yoga-app/compare/v1.0.0...v1.0.1) (2024-08-02)
+
+
+### Bug Fixes
+
+* **yml files:** change github token secret ([10c9c5f](https://github.com/mrkdoob/layhing-yoga-app/commit/10c9c5f915b10c893f966f5cd398faac1665e46a))
+
 # 1.0.0 (2024-08-02)
 
 
