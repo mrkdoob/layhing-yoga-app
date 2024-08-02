@@ -1,78 +1,78 @@
 {
   "RootLayout": {
-    "home_link": "Home",
-    "about_link": "About",
-    "events_link": "Events",
-    "guestbook_link": "Guestbook",
-    "portfolio_link": "Portfolio",
-    "sign_in_link": "Sign in",
-    "sign_up_link": "Sign up"
+    "home_link": "Inicio",
+    "about_link": "Acerca de",
+    "events_link": "Eventos",
+    "guestbook_link": "Libro visitas",
+    "portfolio_link": "Portafolio",
+    "sign_in_link": "Signo en",
+    "sign_up_link": "Registro"
   },
   "BaseTemplate": {
-    "description": "Starter code for your Nextjs Boilerplate with Tailwind CSS",
-    "made_with": "Made with"
+    "description": "Código de inicio para tu Boilerplate de Next. js con Tailwind CSS",
+    "made_with": "Hecho con"
   },
   "Index": {
-    "meta_title": "Next.js Boilerplate Presentation",
-    "meta_description": "Next js Boilerplate is the perfect starter code for your project. Build your React application with the Next.js framework."
+    "meta_title": "Presentación del Boilerplate de Next.js",
+    "meta_description": "Next.js Boilerplate es el código inicial perfecto para tu proyecto. Construye tu aplicación React con el framework Next.js."
   },
   "Guestbook": {
-    "meta_title": "Guestbook",
-    "meta_description": "An example of CRUD operation",
-    "database_powered_by": "Database powered by",
-    "loading_guestbook": "Loading guestbook...",
-    "error_reporting_powered_by": "Error reporting powered by"
+    "meta_title": "Libro visitas",
+    "meta_description": "Un ejemplo de operación CRUD",
+    "database_powered_by": "Base de datos proporcionada por",
+    "loading_guestbook": "Cargando libro de visitas...",
+    "error_reporting_powered_by": "Informe de errores proporcionado por"
   },
   "GuestbookForm": {
-    "username": "Username",
-    "body": "Body",
-    "save": "Save"
+    "username": "Usuario",
+    "body": "Cuerpo",
+    "save": "Salva"
   },
   "About": {
-    "meta_title": "About",
-    "meta_description": "About page description",
-    "about_paragraph": "Welcome to our About page! We are a team of passionate individuals dedicated to creating amazing software.",
-    "translation_powered_by": "Translation powered by"
+    "meta_title": "Acerca de",
+    "meta_description": "Descripción de la página Acerca de",
+    "about_paragraph": "¡Bienvenido a nuestra página Acerca de! Somos un equipo de personas apasionadas dedicadas a crear software increíble.",
+    "translation_powered_by": "Traducción proporcionada por"
   },
   "Events": {
-    "meta_title": "Events",
-    "meta_description": "Events page description",
-    "about_paragraph": "Welcome to our Events page! Join my yoga events.",
-    "translation_powered_by": "Translation powered by"
+    "meta_title": "Eventos",
+    "meta_description": "Descripción del evento Pie",
+    "about_paragraph": "¡Bienvenido a nuestra página de eventos! Únete a mis eventos de yoga.",
+    "translation_powered_by": "Traducción proporcionada por"
   },
   "Portfolio": {
-    "meta_title": "Portfolio",
-    "meta_description": "Welcome to my portfolio page!",
-    "presentation": "Welcome to my portfolio page! Here you will find a carefully curated collection of my work and accomplishments. Through this portfolio, I'm to showcase my expertise, creativity, and the value I can bring to your projects.",
-    "portfolio_name": "Portfolio {name}",
-    "error_reporting_powered_by": "Error reporting powered by",
-    "coverage_powered_by": "Code coverage powered by"
+    "meta_title": "Portafolio",
+    "meta_description": "¡Bienvenido a mi página de portafolio!",
+    "presentation": "¡Bienvenido a mi página de portafolio! Aquí encontrarás una colección cuidadosamente seleccionada de mi trabajo y logros. A través de este portafolio, busco mostrar mi experiencia, creatividad y el valor que puedo aportar a tus proyectos.",
+    "portfolio_name": "Portafolio {name}",
+    "error_reporting_powered_by": "Informe de errores proporcionado por",
+    "coverage_powered_by": "Cobertura de código proporcionada por"
   },
   "PortfolioSlug": {
-    "meta_title": "Portfolio {slug}",
-    "meta_description": "Portfolio {slug} description",
-    "header": "Portfolio {slug}",
-    "content": "Created a set of promotional materials and branding elements for a corporate event. Crafted a visually unified theme, encompassing a logo, posters, banners, and digital assets. Integrated the client's brand identity while infusing it with a contemporary and innovative approach. Garnered favorable responses from event attendees, resulting in a successful event with heightened participant engagement and increased brand visibility.",
-    "log_management_powered_by": "Log management powered by"
+    "meta_title": "Portafolio {slug}",
+    "meta_description": "Descripción del portafolio {slug}",
+    "header": "Portafolio {slug}",
+    "content": "Creé un conjunto de materiales promocionales y elementos de marca para un evento corporativo. Diseñé un tema visualmente unificado que incluía un logotipo, carteles, pancartas y activos digitales. Integré la identidad de marca del cliente mientras le daba un enfoque contemporáneo e innovador. Obtuve respuestas favorables de los asistentes al evento, lo que resultó en un evento exitoso con una mayor participación de los participantes y una mayor visibilidad de la marca.",
+    "log_management_powered_by": "Gestión de registros proporcionada por"
   },
   "SignIn": {
-    "meta_title": "Sign in",
-    "meta_description": "Seamlessly sign in to your account with our user-friendly login process."
+    "meta_title": "Signo en",
+    "meta_description": "Inicia sesión en tu cuenta de manera fluida con nuestro proceso de inicio de sesión fácil de usar."
   },
   "SignUp": {
-    "meta_title": "Sign up",
-    "meta_description": "Effortlessly create an account through our intuitive sign-up process."
+    "meta_title": "Registro",
+    "meta_description": "Crea una cuenta a través de nuestro proceso intuitivo de registro."
   },
   "Dashboard": {
-    "meta_title": "Dashboard",
-    "hello_message": "Hello {email}!"
+    "meta_title": "Tablero",
+    "hello_message": "¡Hola {email}!"
   },
   "UserProfile": {
-    "meta_title": "User Profile"
+    "meta_title": "Perfil de usuario"
   },
   "DashboardLayout": {
-    "dashboard_link": "Dashboard",
-    "user_profile_link": "Manage your account",
-    "sign_out": "Sign out"
+    "dashboard_link": "Tablero",
+    "user_profile_link": "Administra tu cuenta",
+    "sign_out": "Cerrar sesión"
   }
 }
