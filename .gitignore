@@ -52,3 +52,4 @@ local
 
 # Sentry Config File
 .sentryclirc
+.env
